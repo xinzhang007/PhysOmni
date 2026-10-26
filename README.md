@@ -1,7 +1,7 @@
 # PhysOmni: Physics-Grounded Multi-Object Scene Generation from a Single Image
 
 [![ArXiv](https://img.shields.io/badge/ArXiv-2605.20290-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2605.20290)
-[![HomePage](https://img.shields.io/badge/HomePage-Visit-blue.svg?logo=homeadvisor&logoColor=f5f5f5)](https://physomni.github.io/)
+[![HomePage](https://img.shields.io/badge/HomePage-Visit-blue.svg?logo=homeadvisor&logoColor=f5f5f5)](https://zephipage.github.io/PhysOmni/)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg?logo=adobeacrobatreader)](assets/paper.pdf)
 
 PhysOmni is a unified, training-free framework for holistic 3D scene generation and physically grounded video synthesis from a single input image. It supports multi-object scene reconstruction, physics simulation, and video generation with realistic interactions across diverse materials.
